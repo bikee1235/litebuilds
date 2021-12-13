@@ -1,1 +1,4 @@
 This repo is for depl light build in git
+
+"OLDER_XCODE_PATH": "/Applications/Xcode_11.3.1.app/Contents/Developer/usr/bin/xcodebuild",
+  "LATEST_XCODE_PATH": "xcodebuild",
